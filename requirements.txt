@@ -23,6 +23,7 @@ pygame==1.9.2a0
 pygobject==3.14.0
 pyserial==2.6
 python-apt==0.9.3.12
+pytz==2016.6.1
 requests==2.4.3
 sense-hat==2.1.0
 six==1.8.0
